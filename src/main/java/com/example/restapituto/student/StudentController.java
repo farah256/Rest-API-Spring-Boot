@@ -1,10 +1,8 @@
-package com.example.tutoSpringAmigo.student;
+package com.example.restapituto.student;
 
-import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.time.LocalDate;
 import java.util.List;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.example.tutoSpringAmigo;
+package com.example.restapituto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,6 @@
-package com.example.tutoSpringAmigo.student;
+package com.example.restapituto.student;
 
 import jakarta.persistence.*;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import java.time.LocalDate;
 import java.time.Period;
